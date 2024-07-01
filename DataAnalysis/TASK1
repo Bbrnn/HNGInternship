@@ -1,0 +1,44 @@
+Dear Data Analysis Interns,
+Stage Zero Task: Analyzing a Dataset and Writing a “First Glance” Technical Report Article
+As part of your data analysis internship, you will be provided with a dataset to review. Your task is to examine the dataset, identify initial insights at first glance, and write a brief technical report detailing your observations. This exercise will help you develop skills in quickly interpreting data and communicating your findings.
+Dataset Options:
+Titanic Passenger List
+Link: Titanic Dataset on Kaggle <https://www.kaggle.com/c/titanic/data>
+Iris Flower Dataset
+Link: Iris Dataset on UCI Machine Learning Repository <https://archive.ics.uci.edu/ml/datasets/Iris>
+Retail Sales Data
+Link: Retail Dataset on Kaggle<https://www.kaggle.com/datasets/kyanyoga/sample-sales-data>
+Objectives
+Review any of the provided dataset.
+Identify initial insights from the data at first glance.
+Write a brief technical report detailing your observations.
+Steps to Complete the Task
+Dataset Familiarization:
+Open one of the provided dataset to understand its structure and contents.
+Identify the key variables and data types (e.g., numerical, categorical).
+Initial Data Exploration:
+Conduct a quick review of the dataset without deep analysis.
+Look for obvious patterns, trends, or anomalies in the data.
+Insight Identification:
+Note any initial insights that can be immediately observed from the dataset.
+Technical Report Writing:
+Write a brief technical report that includes:
+Introduction: Briefly describe the dataset and the purpose of the review.
+Observations: Present the initial insights you identified, supported by basic visualizations or summary statistics if necessary.
+Conclusion: Summarize your observations and suggest potential areas for further analysis.
+Review and Submission:
+Proofread and edit your technical report for clarity and accuracy.
+Publish your article on any online blog platform.
+Submit the final technical report article link for review.
+Submission Link: https://forms.gle/xjqFgPJGQfLk728W9
+Acceptance Criteria
+Data Review:
+Conduct a quick review of the dataset to identify initial insights.
+Present at least three initial observations from the data.
+Technical Report:
+The report should be well-structured, including an introduction, observations, and conclusion.
+It MUST include at least two links to the HNG Internship websites; choose from any of https://hng.tech/internship, https://hng.tech/hire, or https://hng.tech/premium so others can learn more about the program.
+Include at least one basic visualization (e.g., a simple chart or graph) to support your observations if necessary.
+The report should be concise, around 400 words long.
+Submit the report by 11:59PM Saturday.
+
